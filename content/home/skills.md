@@ -26,13 +26,13 @@ feature:
   name: R
 - description: 100%
   icon: chart-line
-  icon_pack: fab
-  name: Statistics              # maybe add more?
-  - description: 90%
+  icon_pack: fas
+  name: Statistics
+- description: 90%
   icon: java
   icon_pack: fab
   name: Java
-  - description: 100%
+- description: 100%
   icon: compact-disc
   icon_pack: fas
   name: DJing
