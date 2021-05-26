@@ -11,8 +11,6 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-[DCiFR Official Logo](logo.png)
-
 image:
   caption: DCiFR official logo            # will this work??
   focal_point: Smart
@@ -23,3 +21,5 @@ links:
   link: https://github.com/peter1125/DCiFR
 
 ---
+
+![DCiFR Official Logo](logo.png)
