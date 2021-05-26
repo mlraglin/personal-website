@@ -18,8 +18,9 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  link: https://github.com/peter1125/DCiFR
+  url: https://github.com/peter1125/DCiFR
 
 ---
 
 ![DCiFR Official Logo](logo.png)
+DCiFR is a graphical user interface built to bridge the gap between the wide amount of sociological data available online and those lacking the coding literacy required to analyze such data. DCiFR uses deep learning models to evaluate demographic characteristics of images uploaded by the user, and provides CSV output containing analysis results of the characteristics indicated by the user.
