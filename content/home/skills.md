@@ -26,7 +26,7 @@ feature:
   name: R
 - description: 100%
   icon: chart-line
-  icon_pack: fas
+  icon_pack: fab
   name: Statistics              # maybe add more?
   - description: 90%
   icon: java
