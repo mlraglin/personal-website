@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: 'home/projects'
     weight: 20
   - name: Resume
     url: '#static/uploads/resume.pdf'
