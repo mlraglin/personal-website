@@ -49,6 +49,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/melina-raglin-987183198/
 - icon: soundcloud
+  icon_pack: fab
   link: https://soundcloud.com/m3wmix
 
 # Link to a PDF of your resume/CV.
@@ -67,6 +68,4 @@ highlight_name: false
 
 I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, compuational social science, and more. In my free time, I enjoy pursuing several hobbies, including music mixing and production, fitness, and food.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
