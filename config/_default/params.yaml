@@ -22,9 +22,11 @@ twitter: ''
 contact_links:
   - icon: linkedin
     icon_pack: fab
+    name: LinkedIn
     link: 'https://www.linkedin.com/in/melina-raglin-987183198/'
   - icon: github
     icon_pack: fab
+    name: GitHub
     link: 'https://github.com/mlraglin'
 
 # Site header
