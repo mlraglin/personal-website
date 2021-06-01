@@ -22,13 +22,12 @@ twitter: ''
 
 email: raglin.11@buckeyemail.osu.edu
 contact_links:
-
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mlraglin
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/melina-raglin-987183198/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mlraglin
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/melina-raglin-987183198/
 
 # Site header
 
