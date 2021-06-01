@@ -11,7 +11,7 @@ main:
     url: 'project/'
     weight: 20
   - name: Resume
-    url: '#static/uploads/resume.pdf'
+    url: 'static/uploads/resume.pdf'
     weight: 30
   - name: Contact
     url: '#contact'
