@@ -30,13 +30,13 @@ experience:
     description: |2-
         Spring 2020 Experiences:
 
-        -Mastered web-scraping with Python and was able to experience the full process of data analysis, from collection and organization to statistical regression analysis
-        -Learned about facial recognition software, sentiment analysis, and natural language processing
-        -Became interested in the social applications of data analytics practices, influencing me to pick up a minor in sociology
+        * Mastered web-scraping with Python and was able to experience the full process of data analysis, from collection and organization to statistical regression analysis
+        * Learned about facial recognition software, sentiment analysis, and natural language processing\n
+        * Became interested in the social applications of data analytics practices, influencing me to pick up a minor in sociology
 
         Spring 2021 Experiences:
-        -Became confident in Python software development skills and researched PyQt packages to build a GUI connected to deep-learning facial analysis models
-        -Was first author on the DCiFR project and perfected features including single image mode and batch mode, check box selection of multiple attributes, output and error messages for the deep learning model analysis, and formatted CSV results
+        * Became confident in Python software development skills and researched PyQt packages to build a GUI connected to deep-learning facial analysis models
+        * Was first author on the DCiFR project and perfected features including single image mode and batch mode, check box selection of multiple attributes, output and error messages for the deep learning model analysis, and formatted CSV results
 
   - title: Software Development Intern
     company: Garyfallidis Research Group at Indiana University School of Informatics, Computing, and Engineering
@@ -47,9 +47,9 @@ experience:
     description: |2-
         Internship Experiences:
 
-        -Wrote 3D visualization and animation tutorials in Python for new users of FURY, an international open-source scientific visualization project
-        -Implemented new shapes and functions to expand the FURY library using 3-dimensional calculus and linear algebra concepts with the help of Python packages such as NumPy and VTK9
-        -Used Git/GitHub heavily for making and editing pull requests
+        * Wrote 3D visualization and animation tutorials in Python for new users of FURY, an international open-source scientific visualization project
+        * Implemented new shapes and functions to expand the FURY library using 3-dimensional calculus and linear algebra concepts with the help of Python packages such as NumPy and VTK9
+        * Used Git/GitHub heavily for making and editing pull requests
 
 design:
   columns: '2'
