@@ -9,7 +9,7 @@ tags:
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fury.gl/latest/auto_tutorials/index.html"
+external_link: ""
 
 image:
   caption: Solar System Visualization Tutorial
@@ -19,9 +19,7 @@ links:
 - icon: github
   icon_pack: fab
   url: https://github.com/fury-gl/fury
-- icon: 
-
 ---
 
 ![Solar System Visualization Tutorial](solarsystem.jpg)
-This is a screenshot of one of the tutorials that I wrote for FURY, which taught users how to create and texture sphere objects corresponding to each of the planets in our solar system, and animate each of them to follow a scaled orbital path relative to their actual orbit in space, resulting in a product that visualizes each of the planets orbitting and rotating at their respective speeds. 
+This is a screenshot of one of the tutorials that I wrote for FURY, which taught users how to create and texture sphere objects corresponding to each of the planets in our solar system, and animate each of them to follow a scaled orbital path relative to their actual orbit in space, resulting in a product that visualizes each of the planets orbitting and rotating at their respective speeds.
