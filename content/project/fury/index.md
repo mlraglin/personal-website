@@ -21,11 +21,16 @@ links:
   url: https://github.com/fury-gl/fury
 ---
 [To check out the FURY website, click here.](https://fury.gl/latest/index.html)
+
 [To see the FURY tutorials, click here.](https://fury.gl/latest/auto_tutorials/index.html)
+
 ![Solar System Visualization Tutorial](solarsystem.jpg)
 This is a screenshot of one of the tutorials that I wrote for FURY, which taught users how to create and texture sphere objects corresponding to each of the planets in our solar system, and animate each of them to follow a scaled orbital path relative to their actual orbit in space, resulting in a product that visualizes each of the planets orbitting and rotating at their respective speeds.
 
 [Earth Sphere Texture Tutorial](https://fury.gl/latest/auto_tutorials/01_introductory/viz_texture.html#sphx-glr-auto-tutorials-01-introductory-viz-texture-py)
+
 [Earth Coordinate Conversion Tutorial](https://fury.gl/latest/auto_tutorials/01_introductory/viz_earth_coordinates.html#sphx-glr-auto-tutorials-01-introductory-viz-earth-coordinates-py)
+
 [Earth, Moon and Satellite Animation Tutorial](https://fury.gl/latest/auto_tutorials/01_introductory/viz_earth_animation.html#sphx-glr-auto-tutorials-01-introductory-viz-earth-animation-py)
+
 [Solar System Animation Tutorial](https://fury.gl/latest/auto_tutorials/01_introductory/viz_solar_system.html#sphx-glr-auto-tutorials-01-introductory-viz-solar-system-py)
