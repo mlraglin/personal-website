@@ -48,14 +48,14 @@ item:
   organization_url: https://www.kinetic-her.com/
   title: Official Data Analytics Mentee
   url: ""
-- certificate_url: ""
-  date_end: ""
-  date_start: "2021-05-20"
-  description: Video and spoken word created by Sophie Paquette
-  organization: Original Soundcloud Audio
-  organization_url: https://soundcloud.com/m3wmix/like-how-i-look-audio/
-  title: 'look how i like' audio
-  url: https://vimeo.com/552636016
+# - certificate_url: ""
+#   date_end: ""
+#   date_start: "2021-05-20"
+#   description: Video and spoken word created by Sophie Paquette
+#   organization: Original Soundcloud Audio
+#   organization_url: https://soundcloud.com/m3wmix/like-how-i-look-audio/
+#   title: 'look how i like' audio
+#   url: https://vimeo.com/552636016
 
 design:
   columns: '2'
