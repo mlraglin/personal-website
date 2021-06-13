@@ -39,8 +39,7 @@ item:
   organization: LinkedIn Learning
   organization_url: "https://www.linkedin.com/learning/me"
   title: Presenting to Senior Executives Course
-  url: "https://www.linkedin.com/learning/presenting-to-senior-executives/
-  presenting-to-senior-executives"
+  url: "https://www.linkedin.com/learning/presenting-to-senior-executives/presenting-to-senior-executives"
   - certificate_url: ""
   date_end: ""
   date_start: "2020-12-31"
@@ -54,7 +53,7 @@ item:
   date_start: "2021-05-20"
   description: Video and spoken word created by Sophie Paquette
   organization: Original Soundcloud Audio
-  organization_url: "https://soundcloud.com/m3wmix/like-how-i-look-audio"
+  organization_url: "https://soundcloud.com/m3wmix/like-how-i-look-audio/"
   title: 'look how i like' audio
   url: "https://vimeo.com/552636016"
 
