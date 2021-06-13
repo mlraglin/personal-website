@@ -31,7 +31,7 @@ experience:
         Spring 2020 Experiences:
 
         * Mastered web-scraping with Python and was able to experience the full process of data analysis, from collection and organization to statistical regression analysis
-        * Learned about facial recognition software, sentiment analysis, and natural language processing\n
+        * Learned about facial recognition software, sentiment analysis, and natural language processing
         * Became interested in the social applications of data analytics practices, influencing me to pick up a minor in sociology
 
         Spring 2021 Experiences:
