@@ -12,7 +12,7 @@ tags:
 external_link: ""
 
 image:
-  caption: DCiFR official logo            # will this work??
+  caption: DCiFR official logo
   focal_point: Smart
 
 links:
