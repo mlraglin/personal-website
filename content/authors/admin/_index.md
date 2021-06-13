@@ -14,7 +14,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing several hobbies, including music mixing and production, fitness, and food.
+bio: I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology.
 
 # Interests to show in About widget
 interests:

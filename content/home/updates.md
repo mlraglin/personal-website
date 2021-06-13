@@ -35,4 +35,3 @@ item:
 design:
   columns: '2'
 ---
-[[item]] organization = "Lofi House Live Mix" organization_url = "" title = "DJ Mix Youtube Video" url = "https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s" certificate_url = "" date_start = "2021-01-29" date_end = "" description = [Soundcloud Mix Audio](https://soundcloud.com/m3wmix/atlantis-the-lost-mix)
