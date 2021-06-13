@@ -23,15 +23,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s
+- certificate_url: ""
   date_end: ""
   date_start: "2021-01-29"
   description: # how do I make this a link?
-  organization: DJ Mix Video
-  organization_url: https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s
+  organization: Soundcloud Mix Audio
+  organization_url:
   title: Lofi House Mix Live Video
-  url: ""
+  url: "https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s"
 
 design:
   columns: '2'
 ---
+[[item]] organization = "Lofi House Live Mix" organization_url = "" title = "DJ Mix Youtube Video" url = "https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s" certificate_url = "" date_start = "2021-01-29" date_end = "" description = [Soundcloud Mix Audio](https://soundcloud.com/m3wmix/atlantis-the-lost-mix)
