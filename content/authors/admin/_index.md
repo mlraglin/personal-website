@@ -14,7 +14,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, compuational social science, and more. In my free time, I enjoy pursuing several hobbies, including music mixing and production, fitness, and food.
+bio: I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing several hobbies, including music mixing and production, fitness, and food.
 
 # Interests to show in About widget
 interests:
@@ -55,9 +55,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -66,6 +66,6 @@ social:
 highlight_name: false
 ---
 
-I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, compuational social science, and more. In my free time, I enjoy pursuing several hobbies, including music mixing and production, fitness, and food.
+I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing several hobbies, including music mixing and production, fitness, and food.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
