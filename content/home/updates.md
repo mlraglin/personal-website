@@ -38,7 +38,7 @@ item:
   description:
   organization: LinkedIn Learning
   organization_url: "https://www.linkedin.com/learning/me"
-  title: Presenting to Senior Executives Course
+  title: Presenting to Senior Executives - Online Course
   url: "https://www.linkedin.com/learning/presenting-to-senior-executives/presenting-to-senior-executives"
   - certificate_url: ""
   date_end: ""
