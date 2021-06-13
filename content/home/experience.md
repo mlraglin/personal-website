@@ -36,7 +36,14 @@ experience:
 
         Spring 2021 Experiences:
         * Became confident in Python software development skills and researched PyQt packages to build a GUI connected to deep-learning facial analysis models
-        * Was first author on the DCiFR project and perfected features including single image mode and batch mode, check box selection of multiple attributes, output and error messages for the deep learning model analysis, and formatted CSV results
+        * First author of DCiFR project, creating and refining features including single image mode and batch mode, check box selection of multiple attributes, output and error messages for the deep learning model analysis, and formatted CSV results
+
+  - title: Assistant Coach
+    company: Bloomington High School North Girls Varsity Swim Team
+    location: Bloomington, Indiana
+    date_start: '2020-10-01'
+    date_end: '2021-03-01'
+    description:
 
   - title: Software Development Intern
     company: Garyfallidis Research Group at Indiana University School of Informatics, Computing, and Engineering
