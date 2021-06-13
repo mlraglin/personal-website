@@ -38,7 +38,7 @@ item:
   description:
   organization: LinkedIn Learning
   organization_url: "https://www.linkedin.com/learning/me"
-  title: Presenting to Senior Executives - Online Course
+  title: Presenting to Senior Executives - Online Course # could not find expected key???
   url: "https://www.linkedin.com/learning/presenting-to-senior-executives/presenting-to-senior-executives"
   - certificate_url: ""
   date_end: ""
