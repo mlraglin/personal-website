@@ -32,15 +32,15 @@ item:
   organization_url: "https://bdaaosu.org/"
   title: Data I/O 2020
   url: "https://hack.osu.edu/dataio/2020/"
-# - certificate_url: ""
-#   date_end: ""
-#   date_start: "2020-10-16"
-#   description:
-#   organization: LinkedIn Learning
-#   organization_url: "https://www.linkedin.com/learning/me"
-#   title: Presenting to Senior Executives - Online Course # could not find expected key???
-#   url: "https://www.linkedin.com/learning/presenting-to-senior-executives/presenting-to-senior-executives"
-  - certificate_url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2020-10-16"
+  description:
+  organization: LinkedIn Learning
+  organization_url: "https://www.linkedin.com/learning/me"
+  title: Presenting to Senior Executives - Online Course # could not find expected key???
+  url: "https://www.linkedin.com/learning/presenting-to-senior-executives/presenting-to-senior-executives"
+- certificate_url: ""
   date_end: ""
   date_start: "2020-12-31"
   description:
