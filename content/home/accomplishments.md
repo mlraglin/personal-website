@@ -26,9 +26,9 @@ item:
 - certificate_url: https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s
   date_end: ""
   date_start: "2021-01-29"
-  description: [Soundcloud Mix Audio](https://soundcloud.com/m3wmix/atlantis-the-lost-mix)
+  description: # how do I make this a link?
   organization: DJ Mix Video
-  organization_url: https://www.coursera.org
+  organization_url: https://www.youtube.com/watch?v=7OpuGh79zRA&t=12s
   title: Lofi House Mix Live Video
   url: ""
 
