@@ -36,6 +36,10 @@ feature:
   icon: compact-disc
   icon_pack: fas
   name: DJing
+- description:
+  icon: github
+  icon_pack: fab
+  name: Git/GitHub
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
