@@ -68,6 +68,6 @@ highlight_name: false
 
 I am a rising third year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm a member of the [Big Data Analytics Associaton](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/)\
 \
-I'm interested in exploring the interesctions of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
+I'm interested in exploring the intersections of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
