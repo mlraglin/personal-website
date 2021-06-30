@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Ohio State University"
-  organization_url=""
+  organization_url= ""
   title = "Ohio State EPortfolio Link"
   url = "https://u.osu.edu/raglin11hseportfolio/category/aboutme/"
   certificate_url = ""
