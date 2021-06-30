@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   title = "Ohio State EPortfolio Link"
   url = "https://u.osu.edu/raglin11hseportfolio/category/aboutme/"
   certificate_url = ""
-  date_start = ""
+  date_start = "2020-08-31"
   date_end = ""
   description = ""
 [[item]]
