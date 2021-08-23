@@ -73,5 +73,14 @@ date_format = "Jan 2006"
   date_start = "2021-05-20"
   date_end = ""
   description = "Video and spoken word created by Sophie Paquette"
+[[item]]
+  organization = "Ohio State Data Analytics"
+  organization_url = ""
+  title = "Data Analytics Academic Path Peer"
+  url = "https://data-analytics.osu.edu/advising/academic-path-peers/directory"
+  certificate_url = ""
+  date_start = "2021-08-24"
+  date_end = ""
+  description = ""
 
 +++
