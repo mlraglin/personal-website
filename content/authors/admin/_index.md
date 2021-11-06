@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/melina-raglin-987183198/
 - icon: soundcloud
   icon_pack: fab
-  link: https://soundcloud.com/m3wmix
+  link: https://soundcloud.com/s3lektra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
