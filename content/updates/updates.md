@@ -90,5 +90,14 @@ date_format = "Jan 2006"
   date_start = "2021-08-24"
   date_end = ""
   description = ""
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "DCiFR PyPi Package"
+  url = "https://pypi.org/project/dcifr/"
+  certificate_url = ""
+  date_start = "2021-01-09"
+  date_end = ""
+  description = "Uploaded DCiFR to PyPi, a Python repository which allows users to easily download and use open source packages."
 
 +++
