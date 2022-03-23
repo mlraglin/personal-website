@@ -40,11 +40,11 @@ feature:
   icon: github
   icon_pack: fab
   name: Git/GitHub
-  - description:
+- description:
   icon: SQL
   icon_pack: fab
   name: database
-  - description:
+- description:
   icon: C (Programming Language)
   icon_pack: fab
   name: c
