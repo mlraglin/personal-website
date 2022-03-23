@@ -42,11 +42,11 @@ feature:
   name: Git/GitHub
 - description:
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL
 - description:
   icon: c
-  icon_pack: fab
+  icon_pack: fas
   name: C (Programming Language)
 
 # Uncomment to use emoji icons.
