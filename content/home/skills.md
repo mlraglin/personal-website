@@ -44,10 +44,6 @@ feature:
   icon: database
   icon_pack: fas
   name: SQL
-- description:
-  icon: c
-  icon_pack: fas
-  name: C (Programming Language)
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
