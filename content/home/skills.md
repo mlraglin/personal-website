@@ -40,6 +40,14 @@ feature:
   icon: github
   icon_pack: fab
   name: Git/GitHub
+  - description:
+  icon: SQL
+  icon_pack: fab
+  name: database
+  - description:
+  icon: C (Programming Language)
+  icon_pack: fab
+  name: c
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
