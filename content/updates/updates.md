@@ -96,8 +96,17 @@ date_format = "Jan 2006"
   title = "DCiFR PyPi Package"
   url = "https://pypi.org/project/dcifr/"
   certificate_url = ""
-  date_start = "2021-01-09"
+  date_start = "2022-01-09"
   date_end = ""
   description = "Uploaded DCiFR to PyPi, a Python repository which allows users to easily download and use open source packages."
+[[item]]
+  organization = "The Ohio State University Sociology Department"
+  organization_url = ""
+  title = "openVA Research Team Member"
+  url = "https://openva.net/"
+  certificate_url = ""
+  date_start = "2022-02-01"
+  date_end = ""
+  description = "Began working with the openVA team under Sam Clarke, developing and researching tools for Verbal Autopsy in the field of demography."
 
 +++
