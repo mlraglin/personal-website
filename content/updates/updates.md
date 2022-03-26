@@ -107,6 +107,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-02-01"
   date_end = ""
-  description = "Began working with the openVA team under Sam Clarke, developing and researching tools for Verbal Autopsy in the field of demography."
+  description = "Began working with the openVA team under Sam Clark, developing and researching tools for Verbal Autopsy in the field of demography."
 
 +++
