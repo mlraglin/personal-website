@@ -46,21 +46,6 @@ experience:
         * Python (vtk9, numpy, pandas)
         * Git/GitHub
 
-  - title: Leadership Development Program Intern
-    company: Abercrombie & Fitch Co.
-    location: New Albany, Ohio
-    date_start: '2022-06-06'
-    date_end: ''
-    description: |2-
-        Internship experiences:
-        * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
-        * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
-
-        Tools used:
-        * Snowflake (SQL)
-        * Adobe Analytics
-        * PowerBI
-
   - title: Research Assistant
     company: The Ohio State University Sociology Department
     location: Columbus, Ohio
@@ -84,6 +69,21 @@ experience:
         Tools used:
         * Python (pandas, numpy, pytorch, deepface, fairface)
         * R
+
+  - title: Leadership Development Program Intern
+    company: Abercrombie & Fitch Co.
+    location: New Albany, Ohio
+    date_start: '2022-06-06'
+    date_end: ''
+    description: |2-
+        Internship experiences:
+        * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
+        * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
+
+        Tools used:
+        * Snowflake (SQL)
+        * Adobe Analytics
+        * PowerBI
 
 design:
   columns: '2'
