@@ -29,7 +29,7 @@ experience:
     date_end: '2021-03-01'
     description: Helped coach a team of over 30 high school girls on the varsity swim team at 4-8 practices a week. Led swimmers through various types of 2+ hour workout sets and attended swim meets, providing mental and emotional support to female athletes throughout their swimming and high school careers.
 
-     - title: Software Development Intern
+  - title: Software Development Intern
     company: Garyfallidis Research Group at Indiana University School of Informatics, Computing, and Engineering
     company_url: 'https://grg.sice.indiana.edu/'
     location: Bloomington, Indiana
