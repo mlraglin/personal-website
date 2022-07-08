@@ -88,7 +88,7 @@ date_format = "Jan 2006"
   url = "https://data-analytics.osu.edu/advising/academic-path-peers/directory"
   certificate_url = ""
   date_start = "2021-08-24"
-  date_end = ""
+  date_end = "2022-05-02"
   description = "Path peer mentor for the 2021-2022 academic school year for Ohio State's Data Analytics program."
 [[item]]
   organization = ""
