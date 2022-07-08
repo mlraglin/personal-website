@@ -111,7 +111,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Population Association of America 2022"
   organization_url = "https://www.populationassociation.org/paa2022/home"
-  title = "Presenter"
+  title = "Conference Presenter"
   url = "https://higherlogicdownload.s3.amazonaws.com/POPULATIONASSOCIATION/0e2b9486-b498-4b25-b311-b4b739d4d7cc/UploadedImages/PAA_2022/PAA2022ProgramBook.pdf"
   certificate_url = ""
   date_start = "2022-04-07"
