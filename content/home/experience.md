@@ -22,28 +22,52 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Leadership Development Program Intern
+    company: Abercrombie & Fitch Co.
+    location: New Albany, Ohio
+    date_start: '2022-06-06'
+    date_end: '2022-08-05'
+    description: |2-
+        Internship experiences:
+        * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
+        * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
+
+        Tools used:
+        * Snowflake (SQL)
+        * Adobe Analytics
+        * PowerBI
+
+experience:
   - title: Research Assistant
     company: The Ohio State University Sociology Department
     location: Columbus, Ohio
     date_start: '2020-01-01'
     date_end: ''
     description: |2-
+        Spring 2022 Experiences:
+        * Presented facial recognition research and DCiFR GUI software at the Population Association of America 2022 conference in Atlanta, Georgia. The presentation was entitled "Computer Vision and Applications in Social Science: Deriving Race and Gender From Photos" in the "Machine Learning Applications to Population Processes" session.
+        * Joined the openVA research group under Professor Sam Clark to begin working on projects related to demographic data, including building a relational database management system in SQLite for population data
+
+        Spring 2021 Experiences:
+        * Became confident in Python software development skills and researched PyQt packages to build a GUI connected to deep-learning facial analysis models
+        * First author of DCiFR project, creating and refining features including single image mode and batch mode, check box selection of multiple attributes, output and error messages for the deep learning model analysis, and formatted CSV results.
+
         Spring 2020 Experiences:
 
         * Mastered web-scraping with Python and was able to experience the full process of data analysis, from collection and organization to statistical regression analysis
         * Learned about facial recognition software, sentiment analysis, and natural language processing
         * Became interested in the social applications of data analytics practices, influencing me to pick up a minor in sociology
 
-        Spring 2021 Experiences:
-        * Became confident in Python software development skills and researched PyQt packages to build a GUI connected to deep-learning facial analysis models
-        * First author of DCiFR project, creating and refining features including single image mode and batch mode, check box selection of multiple attributes, output and error messages for the deep learning model analysis, and formatted CSV results
+        Tools used:
+        * Python (pandas, numpy, pytorch, deepface, fairface)
+        * R
 
   - title: Assistant Coach
     company: Bloomington High School North Girls Varsity Swim Team
     location: Bloomington, Indiana
     date_start: '2020-10-01'
     date_end: '2021-03-01'
-    description:
+    description: Helped coach a team of over 30 high school girls on the varsity swim team at 4-8 practices a week. Led swimmers through various types of 2+ hour workout sets and attended swim meets, providing mental and emotional support to female athletes throughout their swimming and high school careers.
 
   - title: Software Development Intern
     company: Garyfallidis Research Group at Indiana University School of Informatics, Computing, and Engineering
@@ -57,6 +81,10 @@ experience:
         * Wrote 3D visualization and animation tutorials in Python for new users of FURY, an international open-source scientific visualization project
         * Implemented new shapes and functions to expand the FURY library using 3-dimensional calculus and linear algebra concepts with the help of Python packages such as NumPy and VTK9
         * Used Git/GitHub heavily for making and editing pull requests
+
+        Tools used:
+        * Python (vtk9, numpy, pandas)
+        * Git/GitHub
 
 design:
   columns: '2'

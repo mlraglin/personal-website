@@ -108,5 +108,14 @@ date_format = "Jan 2006"
   date_start = "2022-02-01"
   date_end = ""
   description = "Began working with the openVA team under Sam Clark, developing and researching tools for Verbal Autopsy in the field of demography."
+[[item]]
+  organization = "Abercrombie & Fitch Co."
+  organization_url = "https://www.abercrombie.com/shop/us"
+  title = "Leadership Development Program Summer Intern"
+  url = "https://corporate.abercrombie.com/careers/home-office/students-leadership-development#!"
+  certificate_url = ""
+  date_start = "2022-06-06"
+  date_end = "2022-08-05"
+  description = "Summer intern on the Data Strategy team, working on projects to enhance the personalized experience for users across all A&F brands with the help of tools such as Snowflake, Adobe Analytics, and Power BI."
 
 +++
