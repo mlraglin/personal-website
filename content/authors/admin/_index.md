@@ -14,14 +14,14 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a rising third year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology.
+bio: I am a fourth-year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology.
 
 # Interests to show in About widget
 interests:
 - Data Visualization
 - Machine Learning and Artifical Intelligence
-- Sociology and Philosophy
 - Computational Social Science
+- Media and Streaming Services
 
 # Education to show in About widget
 education:
@@ -68,6 +68,6 @@ highlight_name: false
 
 I am a fourth-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm a member of the [Big Data Analytics Association](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/) I'm currently interning at the [Abercrombie & Fitch](https://www.abercrombie.com/shop/us) Global Home Office in New Albany, Ohio on the data stragety and personalization team.\
 \
-I'm interested in exploring the intersections of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
+I'm interested in the intersections of data analysis and other quantitative and qualitative fields, including machine learning, software development, computational social science, and more, and hope to pursue such paths when applying to full-time positions in the upcoming fall semester of 2022. In my free time, I enjoy pursuing personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

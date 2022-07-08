@@ -22,22 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Leadership Development Program Intern
-    company: Abercrombie & Fitch Co.
-    location: New Albany, Ohio
-    date_start: '2022-06-06'
-    date_end: '2022-08-05'
+
+  - title: Software Development Intern
+    company: Garyfallidis Research Group at Indiana University School of Informatics, Computing, and Engineering
+    company_url: 'https://grg.sice.indiana.edu/'
+    location: Bloomington, Indiana
+    date_start: '2020-05-01'
+    date_end: '2020-12-31'
     description: |2-
-        Internship experiences:
-        * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
-        * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
+        Internship Experiences:
+
+        * Wrote 3D visualization and animation tutorials in Python for new users of FURY, an international open-source scientific visualization project
+        * Implemented new shapes and functions to expand the FURY library using 3-dimensional calculus and linear algebra concepts with the help of Python packages such as NumPy and VTK9
+        * Used Git/GitHub heavily for making and editing pull requests
 
         Tools used:
-        * Snowflake (SQL)
-        * Adobe Analytics
-        * PowerBI
+        * Python (vtk9, numpy, pandas)
+        * Git/GitHub
 
-experience:
+  - title: Assistant Coach
+    company: Bloomington High School North Girls Varsity Swim Team
+    location: Bloomington, Indiana
+    date_start: '2020-10-01'
+    date_end: '2021-03-01'
+    description: Helped coach a team of over 30 high school girls on the varsity swim team at 4-8 practices a week. Led swimmers through various types of 2+ hour workout sets and attended swim meets, providing mental and emotional support to female athletes throughout their swimming and high school careers.
+
   - title: Research Assistant
     company: The Ohio State University Sociology Department
     location: Columbus, Ohio
@@ -62,29 +71,20 @@ experience:
         * Python (pandas, numpy, pytorch, deepface, fairface)
         * R
 
-  - title: Assistant Coach
-    company: Bloomington High School North Girls Varsity Swim Team
-    location: Bloomington, Indiana
-    date_start: '2020-10-01'
-    date_end: '2021-03-01'
-    description: Helped coach a team of over 30 high school girls on the varsity swim team at 4-8 practices a week. Led swimmers through various types of 2+ hour workout sets and attended swim meets, providing mental and emotional support to female athletes throughout their swimming and high school careers.
-
-  - title: Software Development Intern
-    company: Garyfallidis Research Group at Indiana University School of Informatics, Computing, and Engineering
-    company_url: 'https://grg.sice.indiana.edu/'
-    location: Bloomington, Indiana
-    date_start: '2020-05-01'
-    date_end: '2020-12-31'
+  - title: Leadership Development Program Intern
+    company: Abercrombie & Fitch Co.
+    location: New Albany, Ohio
+    date_start: '2022-06-06'
+    date_end: '2022-08-05'
     description: |2-
-        Internship Experiences:
-
-        * Wrote 3D visualization and animation tutorials in Python for new users of FURY, an international open-source scientific visualization project
-        * Implemented new shapes and functions to expand the FURY library using 3-dimensional calculus and linear algebra concepts with the help of Python packages such as NumPy and VTK9
-        * Used Git/GitHub heavily for making and editing pull requests
+        Internship experiences:
+        * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
+        * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
 
         Tools used:
-        * Python (vtk9, numpy, pandas)
-        * Git/GitHub
+        * Snowflake (SQL)
+        * Adobe Analytics
+        * PowerBI
 
 design:
   columns: '2'
