@@ -44,6 +44,14 @@ feature:
   icon: database
   icon_pack: fas
   name: SQL
+- description:
+  icon: chart-area
+  icon_pack: fas
+  name: Tableau
+- description:
+  icon: chart-line
+  icon_pack: fas
+  name: PowerBI
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
