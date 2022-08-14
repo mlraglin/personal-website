@@ -49,7 +49,7 @@ feature:
   icon_pack: fas
   name: Tableau
 - description:
-  icon: chart-line
+  icon: chart-pie
   icon_pack: fas
   name: PowerBI
 
