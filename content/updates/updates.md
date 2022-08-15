@@ -116,7 +116,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-04-07"
   date_end = "2022-04-07"
-  description = "Presented at the PAA 2022 conference in Atlanta, Georgia. Session was titled 'Machine Learning Applications to Population Processes', and the presentation was titled 'Computer Vision and Applications in Social Science Research: Deriving Race and Gender', a work co-authored with Erick Axxe and Peter Eungang Choi."
+  description = "Presented at the PAA 2022 conference in Atlanta, Georgia. Session was titled 'Machine Learning Applications to Population Processes', and the presentation was titled 'Computer Vision and Applications in Social Science Research: Deriving Race and Gender from Photos', a work co-authored with Erick Axxe and Peter Eungang Choi."
 [[item]]
   organization = "LUMA Galleries"
   organization_url = "https://www.lumagalleries.org/"
