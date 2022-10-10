@@ -84,6 +84,7 @@ experience:
         * Snowflake (SQL)
         * Adobe Analytics
         * PowerBI
+        * Google Analytics
 
 design:
   columns: '2'
