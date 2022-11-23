@@ -20,6 +20,7 @@ bio: I am a fourth-year student and Eminence Fellow at The Ohio State University
 interests:
 - Data Visualization
 - Machine Learning and Artifical Intelligence
+- Personalization
 - Computational Social Science
 - Media and Streaming Services
 
@@ -66,7 +67,7 @@ social:
 highlight_name: false
 ---
 
-I am a fourth-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm a member of the [Big Data Analytics Association](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/) This past summer, I worked as a data strategy intern at the global home office of [Abercrombie and Fitch Co.](https://corporate.abercrombie.com/)\
+I am a fourth-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm a member of the [Big Data Analytics Association](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/) This summer, I worked as a data strategy intern at the global home office of [Abercrombie and Fitch Co.](https://corporate.abercrombie.com/)\
 \
 I'm interested in the intersections of data analysis and other quantitative and qualitative fields, including machine learning, personalization, software development, computational social science, and more, and am currently pursuing professional positions in such fields of work, with the plan to start working in fall of 2023. In my free time, I enjoy pursuing my personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
 
