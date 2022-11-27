@@ -116,8 +116,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: '' # code from google analytics
-  google_tag_manager: 'G-5LEGKQRXH0'
+  google_analytics: 'G-5LEGKQRXH0' # code from google analytics
+  google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
