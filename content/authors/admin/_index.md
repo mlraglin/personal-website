@@ -67,7 +67,8 @@ social:
 highlight_name: false
 ---
 
-I am a fourth-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I will be graduating this May and am looking for a full-time position as a data analyst.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a fourth-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I will be graduating this May and am looking for a full-time position working as a data analyst.
+\
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
 \
 I'm a member of the [Big Data Analytics Association](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and a student member of the [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/)
