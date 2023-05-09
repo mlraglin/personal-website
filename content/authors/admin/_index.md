@@ -6,7 +6,7 @@ title: Melina Raglin
 superuser: true
 
 # Role/position/tagline
-role: Data Analytics Student
+role: Data Analytics Professional
 
 # Organizations/Affiliations to show in About widget
 organizations:
