@@ -18,16 +18,15 @@ bio: I am a fourth-year student and Eminence Fellow at The Ohio State University
 
 # Interests to show in About widget
 interests:
+- Personalization and Data Strategy
 - Data Visualization
 - Machine Learning and Artifical Intelligence
-- Personalization
 - Computational Social Science
-- Media and Streaming Services
 
 # Education to show in About widget
 education:
   courses:
-  - course: Pursuing a Bachelor of Science in Data Analytics
+  - course: B.S. of Arts and Sciences, Data Analytics Major
     institution: The Ohio State University University
     year: 2023
   - course: Honors High School Diploma
@@ -70,4 +69,3 @@ highlight_name: false
 Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minoring in sociology with a specialization in data visualization. Looking for employment to begin my career as a professional data analyst, scientist, strategist, and designer. Passionate about centering data-driven decision making around users, customers, and people.
 \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
-\
