@@ -14,7 +14,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth-year student and Eminence Fellow at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology.
+bio: Recent graduate of The Ohio State University with a B.S. in data analytics. Seeking employment for the fall of 2023.
 
 # Interests to show in About widget
 interests:
