@@ -50,7 +50,7 @@ experience:
     company: The Ohio State University Sociology Department
     location: Columbus, Ohio
     date_start: '2020-01-01'
-    date_end: ''
+    date_end: '2023-04-01'
     description: |2-
         Spring 2022 Experiences:
         * Presented facial recognition research and DCiFR GUI software at the Population Association of America 2022 conference in Atlanta, Georgia. The presentation was entitled "Computer Vision and Applications in Social Science: Deriving Race and Gender From Photos" in the "Machine Learning Applications to Population Processes" session.
@@ -74,17 +74,19 @@ experience:
     company: Abercrombie & Fitch Co.
     location: New Albany, Ohio
     date_start: '2022-06-06'
-    date_end: ''
+    date_end: '2022-08-03'
     description: |2-
         Internship experiences:
         * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
         * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
 
         Tools used:
-        * Snowflake (SQL)
+        * SQL
+        * Snowflake
         * Adobe Analytics
         * PowerBI
         * Google Analytics
+        * Excel
 
 design:
   columns: '2'
