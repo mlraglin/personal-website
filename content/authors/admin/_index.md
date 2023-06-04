@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.S. of Arts and Sciences, Data Analytics Major
+  - course: B.S. of Arts and Sciences, Data Analytics Major, Magna Cum Laude with Honors Distinction
     institution: The Ohio State University University
     year: 2023
   - course: Honors High School Diploma
     institution: Bloomington High School North
     year: 2019
-  - course: Classes in Informatics and Computer Science
+  - course: Informatics and Computer Science Classes
     institution: Indiana University
     year: 2019
 
@@ -66,6 +66,6 @@ social:
 highlight_name: false
 ---
 
-Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minoring in sociology with a specialization in data visualization. Looking for employment to begin my career as a professional data analyst, scientist, strategist, and designer. Passionate about centering data-driven decision making around users, customers, and people.
+Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Searching for data analytics and strategy positions to begin a post-graduate career. Passionate about centering data-driven decision making around users, customers, and people. Semi-professional DJ and fitness enthusiast.
 \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
