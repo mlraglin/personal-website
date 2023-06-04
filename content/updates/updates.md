@@ -138,7 +138,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Sidestage Collective"
   organization_url = "https://sidestagecollective.com/"
-  title = "Opener for Summit Music Hall in Columbus, OH"
+  title = "Opening DJ Act at the Summit Music Hall in Columbus, OH"
   url = "https://www.eventbrite.com/e/wolf-e-wolf-at-the-summit-music-hall-saturday-january-28-tickets-506824404437"
   certificate_url = ""
   date_start = "2023-01-28"
