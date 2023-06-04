@@ -78,6 +78,7 @@ experience:
     description: |2-
         Internship experiences:
         * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
+        * Optimized web analytics tag management database architecture, improving the method of storing neccessary metadata on tag data from hundreds of sources, including Google Analytics.
         * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
 
         Tools used:
