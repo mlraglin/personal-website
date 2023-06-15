@@ -21,6 +21,10 @@ feature:
   icon_pack: fab
   name: Python
 - description:
+  icon: database
+  icon_pack: fas
+  name: SQL
+- description:
   icon: r-project
   icon_pack: fab
   name: R
@@ -35,11 +39,7 @@ feature:
 - description:
   icon: github
   icon_pack: fab
-  name: Git/GitHub
-- description:
-  icon: database
-  icon_pack: fas
-  name: SQL
+  name: Git & GitHub
 - description:
   icon: chart-area
   icon_pack: fas

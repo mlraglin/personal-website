@@ -68,5 +68,4 @@ highlight_name: false
 
 Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Searching for data analytics and strategy positions to begin a post-graduate career. Passionate about centering data-driven decision making around users, customers, and people. Semi-professional DJ, avid foodie, and fitness enthusiast.  
 
-\
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
