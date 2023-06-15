@@ -27,15 +27,11 @@ feature:
 - description:
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Complex Statistics
 - description:
   icon: java
   icon_pack: fab
   name: Java
-- description:
-  icon: compact-disc
-  icon_pack: fas
-  name: DJing
 - description:
   icon: github
   icon_pack: fab
@@ -52,6 +48,10 @@ feature:
   icon: chart-pie
   icon_pack: fas
   name: PowerBI
+- description:
+  icon: compact-disc
+  icon_pack: fas
+  name: DJing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
