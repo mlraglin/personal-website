@@ -89,6 +89,33 @@ experience:
         * Google Analytics
         * Excel
 
+  - title: Data Consultant
+    company: The Ohio State University Office of Advancement
+    location: Columbus, Ohio
+    date_start: '2023-01-09'
+    date_end: '2023-03-14'
+    description: |2-
+        *Produced valuable predictive insights for IGS Energy Home Warranty Claims.
+        *Built a predictive statistical model from raw data using Python, and presented relevant findings and suggestions to business stakeholders.
+        Tools used:
+        * R
+        * RStudio
+        * Canva
+
+  - title: Data Consultant
+    company: IGS Energy
+    location: Columbus, Ohio
+    date_start: '2023-03-16'
+    date_end: '2023-05-02'
+    description: |2-
+        *Presented valuable customer segment insights to The Ohio State University's Office of Advancement.
+        *Produced robust statistical insights and business strategies from raw data in R.
+        Tools used:
+        * Python
+        * Jupyter Notebook
+        * Canva
+
+
 design:
   columns: '2'
 ---
