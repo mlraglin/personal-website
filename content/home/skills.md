@@ -31,7 +31,7 @@ feature:
 - description:
   icon: chart-line
   icon_pack: fas
-  name: Complex Statistics
+  name: Statistical Analysis
 - description:
   icon: java
   icon_pack: fab
@@ -39,7 +39,7 @@ feature:
 - description:
   icon: github
   icon_pack: fab
-  name: Git & GitHub
+  name: Version Control
 - description:
   icon: chart-area
   icon_pack: fas
