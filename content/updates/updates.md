@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Updates"
-subtitle = ""
+subtitle = "An archive of things I've done, accomplished, and created."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url= ""
+  organization = "Pheb Media"
+  organization_url= "https://www.youtube.com/channel/UCzY1ayaswy2HMFmc-kc4rIQ?reload=9"
   title = "The Questionning - Short Film"
   url = "https://www.imdb.com/title/tt14634366/?ref_=nm_knf_t1"
   certificate_url = ""
