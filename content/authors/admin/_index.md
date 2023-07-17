@@ -70,4 +70,4 @@ highlight_name: false
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
 
-{{< icon name="folder-open-o" pack="fas" >}} Visit my {{< staticref "uploads/resume.pdf" "newtab" >}}portfolio{{< /staticref >}} here.
+{{< icon name="user" pack="fas" >}} Visit my {{< staticref "uploads/resume.pdf" "newtab" >}}portfolio{{< /staticref >}} here.
