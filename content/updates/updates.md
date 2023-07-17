@@ -162,4 +162,13 @@ date_format = "Jan 2006"
   date_start = "2023-05-07"
   date_end = ""
   description = "Received my Bachelor of Science degree in Data Analytics from The Ohio State University, with a minor in sociology and specialization in data visualization. Graduated with a 3.707 GPA, Magna Cum Laude, with Honors Distinction in the Arts and Sciences."
+  [[item]]
+  organization = "Voyage Ohio Magazine"
+  organization_url = "https://voyageohio.com/"
+  title = "Selektra Profile Article"
+  url = "https://voyageohio.com/interview/meet-melina-raglin-of-old-north-campus/"
+  certificate_url = ""
+  date_start = "2023-07-13"
+  date_end = ""
+  description = "Interviewed by Voyage Ohio Magazine for a short write-up about my DJ career in the Columbus area."
 +++
