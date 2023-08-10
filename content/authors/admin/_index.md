@@ -66,7 +66,7 @@ social:
 highlight_name: false
 ---
 
-<b>Experienced data analyst, scientist, and strategist actively searching for full-time employment for the fall of 2023.</b> Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Passionate about improving the experiences of real people through the development and analysis of robust customer-centered insights.
+<b>Experienced data analyst, scientist, and strategist actively searching for full-time employment for the fall of 2023.</b> Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Passionate about improving the experiences of real people through the development and analysis of robust customer-centered insights.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
 
