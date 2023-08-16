@@ -42,6 +42,7 @@ experience:
         * Implemented new shapes and functions to expand the FURY library using 3-dimensional calculus and linear algebra concepts with the help of Python packages such as NumPy and VTK9
         * Used Git/GitHub heavily for making and editing pull requests
 
+
         Tools used:
         * Python (vtk9, numpy, pandas)
         * Git/GitHub
@@ -66,6 +67,7 @@ experience:
         * Learned about facial recognition software, sentiment analysis, and natural language processing
         * Became interested in the social applications of data analytics practices, influencing me to pick up a minor in sociology
 
+
         Tools used:
         * Python (pandas, numpy, pytorch, deepface, fairface)
         * R
@@ -80,6 +82,7 @@ experience:
         * Worked on the data strategy team on personalization projects, using insights collection on customer data with Snowflake to develop strategies and hypotheses for A/B testing to implement new features and experiences for users across all channels (email, app, push, browser).
         * Optimized web analytics tag management database architecture, improving the method of storing neccessary metadata on tag data from hundreds of sources, including Google Analytics.
         * Completed both a final personal project and cross-functional case competition, presenting to a panel of judges of various levels across the company, utilizing both techincal and personal presentation skills.
+
 
         Tools used:
         * SQL
