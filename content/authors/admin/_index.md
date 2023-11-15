@@ -6,22 +6,24 @@ title: Melina Raglin
 superuser: true
 
 # Role/position/tagline
-role: Data Analytics Professional
+role: Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Chartmetric
+  url: https://chartmetric.com/
 - name: Ohio State University
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Recent graduate of The Ohio State University with a B.S. in data analytics. Seeking employment for the fall of 2023.
+bio: NYC-based Data analyst at Chartmetric. Recent graduate of The Ohio State University with a B.S. in data analytics.
 
 # Interests to show in About widget
 interests:
+- Music Analytics
 - Personalization and Data Strategy
 - Data Visualization
 - Machine Learning and Artifical Intelligence
-- Computational Social Science
 
 # Education to show in About widget
 education:
@@ -66,7 +68,7 @@ social:
 highlight_name: false
 ---
 
-<b>Experienced data analyst, scientist, and strategist actively searching for full-time employment for the fall of 2023.</b> Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Passionate about improving the experiences of real people through the development and analysis of robust customer-centered insights.
+<b>Data Analyst at [Chartmetric](https://chartmetric.com/).</b> Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Passionate about the power of data and the intersection of the music and technology industries.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
 
