@@ -68,7 +68,7 @@ social:
 highlight_name: false
 ---
 
-Data Analyst at [Chartmetric](https://chartmetric.com/). Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Passionate about the power of data and the intersection of the music and technology industries.
+### Data Analyst at [Chartmetric](https://chartmetric.com/). Recent graduate and [Eminence Fellow](https://honors-scholars.osu.edu/eminence) of [The Ohio State University](https://www.osu.edu/) with a B.S. in Data Analytics, minor in sociology, and specialization in data visualization. Passionate about the power of data and the intersection of the music and technology industries.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
 
