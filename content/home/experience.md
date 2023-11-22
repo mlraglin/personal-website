@@ -122,9 +122,9 @@ experience:
 
   - title: Data Analyst
     company: Chartmetric
+    company_url: https://chartmetric.com/
     location: New York, New York
     date_start: '2023-10-16'
-    date_end: 'Present'
     description: |2-
         * Member of the analytics team at Chartmetric. Responsible for pulling high-impact queries on a daily basis for external business clients and internal teams including marketing, product, and more.
 
