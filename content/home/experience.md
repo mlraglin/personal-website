@@ -126,7 +126,7 @@ experience:
     date_start: '2023-10-16'
     date_end: 'Present'
     description: |2-
-        * Member of the analytics team at Chartmetric. Responsible for pulling high-impact queries on a daily basis for external clients and internal teams including marketing, product, and more.
+        * Member of the analytics team at Chartmetric. Responsible for pulling high-impact queries on a daily basis for external business clients and internal teams including marketing, product, and more.
 
         Tools used:
         * SQL
