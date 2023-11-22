@@ -120,7 +120,7 @@ experience:
         * RStudio
         * Canva
 
-   - title: Data Analyst
+  - title: Data Analyst
     company: Chartmetric
     location: New York, New York
     date_start: '2023-10-16'
