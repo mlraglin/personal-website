@@ -34,9 +34,6 @@ education:
   - course: Honors High School Diploma
     institution: Bloomington High School North
     year: 2019
-  - course: Informatics and Computer Science Classes
-    institution: Indiana University
-    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
