@@ -192,7 +192,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "Chartmetric"
   organization_url = "https://chartmetric.com/"
-  title = "WIM NYC Member"
+  title = "2023 Year in Music - Main Analyst"
   url = "https://reports.chartmetric.com/"
   certificate_url = ""
   date_start = "2024-02-16"
