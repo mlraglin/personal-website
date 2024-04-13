@@ -16,7 +16,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: NYC-based Data analyst at Chartmetric. Recent graduate of The Ohio State University with a B.S. in data analytics.
+bio: NYC-based Data analyst at Chartmetric. Graduate of The Ohio State University with a B.S. in data analytics.
 
 # Interests to show in About widget
 interests:

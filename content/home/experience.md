@@ -126,12 +126,16 @@ experience:
     location: New York, New York
     date_start: '2023-10-16'
     description: |2-
-        * Member of the analytics team at Chartmetric. Responsible for pulling high-impact queries on a daily basis for external business clients and internal teams including marketing, product, and more.
+        * Member of the analytics team at Chartmetric. Responsible for pulling high-impact data on a daily basis for internal teams including marketing, product, and more, helping to create new data-driven product features, enrich articles through data storytelling, and advance business development. Addresses client requests on a weekly basis, including building streamlined and automated dashboards and addressing research questions through data exploration. Main analyst for the [Chartmetric Year in Music Report](https://reports.chartmetric.com/), pulling hundreds of queries and managing pipelines to ensure high data quality across all elements of the report.
 
         Tools used:
         * SQL
+        * Python
         * Snowflake
         * Hex
+        * RDS
+        * GitHub
+        * Looker
 
 design:
   columns: '2'

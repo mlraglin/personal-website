@@ -47,7 +47,7 @@ feature:
 - description:
   icon: chart-pie
   icon_pack: fas
-  name: PowerBI
+  name: Looker
 - description:
   icon: compact-disc
   icon_pack: fas
