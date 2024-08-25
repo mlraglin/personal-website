@@ -126,15 +126,15 @@ experience:
     location: New York, New York
     date_start: '2023-10-16'
     description: |2-
-        * Responsible for pulling high-impact data on a daily basis for internal teams including marketing, product, and more, helping to create new data-driven product features, enrich articles through data storytelling, and advance business development.
-        * Fulfills client requests on a weekly basis, including building streamlined and automated dashboards, addressing research questions through data exploration, and evaluating new external data sources.
+        * Responsible for pulling high-impact data on a daily basis for internal teams including marketing, product, and more, helping to create new data-driven product features, enrich marketing through data storytelling, and advance business development.
+        * Fulfilling weekly ad-hoc client requests, including building streamlined and automated dashboards, addressing research questions through data exploration, evaluating new external data sources, and serving large-scale data requests.
         * Main analyst for the [Chartmetric Year in Music Report](https://reports.chartmetric.com/), pulling hundreds of queries and managing pipelines to ensure high data quality across all elements of the report.
 
 
         Tools used:
         * SQL
         * Python
-        * Snowflake / RDS
+        * Snowflake / RDS / ClickHouse
         * Hex
         * Looker
 
