@@ -29,9 +29,9 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: chart-line
+  icon: snowflake
   icon_pack: fas
-  name: Statistical Analysis
+  name: Snowflake
 - description:
   icon: java
   icon_pack: fab
