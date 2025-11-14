@@ -33,13 +33,13 @@ feature:
   icon_pack: fas
   name: Snowflake
 - description:
-  icon: java
+  icon: view_column
   icon_pack: fab
-  name: Java
+  name: ClickHouse
 - description:
-  icon: github
-  icon_pack: fab
-  name: Version Control
+  icon: fa-wind
+  icon_pack: fas
+  name: Airflow
 - description:
   icon: chart-area
   icon_pack: fas
