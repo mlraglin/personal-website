@@ -33,11 +33,11 @@ feature:
   icon_pack: fas
   name: Snowflake
 - description:
-  icon: view_column
+  icon: table_columns
   icon_pack: fab
   name: ClickHouse
 - description:
-  icon: fa-wind
+  icon: wind
   icon_pack: fas
   name: Airflow
 - description:
