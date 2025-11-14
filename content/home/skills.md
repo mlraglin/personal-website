@@ -34,7 +34,7 @@ feature:
   name: Snowflake
 - description:
   icon: table_columns
-  icon_pack: fab
+  icon_pack: fas
   name: ClickHouse
 - description:
   icon: wind
