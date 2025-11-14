@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Snowflake
 - description:
-  icon: table_columns
+  icon: table-columns
   icon_pack: fas
   name: ClickHouse
 - description:
