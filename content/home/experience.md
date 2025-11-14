@@ -126,15 +126,15 @@ experience:
     location: New York, New York
     date_start: '2023-10-16'
     description: |2-
-        * Responsible for pulling high-impact data on a daily basis for internal teams including marketing, product, and more, helping to create new data-driven product features, enrich marketing through data storytelling, and advance business development.
-        * Fulfilling weekly ad-hoc client requests, including building streamlined and automated dashboards, addressing research questions through data exploration, evaluating new external data sources, and serving large-scale data requests.
-        * Main analyst for the [Chartmetric Year in Music Report](https://reports.chartmetric.com/), pulling hundreds of queries and managing pipelines to ensure high data quality across all elements of the report.
-
+        * Delivering high-impact ad hoc analyses daily using SQL for internal teams and external clients, informing business decisions, music industry research, marketing/social media, and more.
+        * Creating, monitoring, and optimizing automated data pipelines on a daily basis using Python and Airflow to power external data shares and cutting-edge product developments with high-quality data.
+        * Building informative and interactive dashboards for external clients, using internal dashboard technologies, as well as tools such as Looker.
 
         Tools used:
         * SQL
         * Python
-        * Snowflake / RDS / ClickHouse
+        * Airflow
+        * Snowflake / ClickHouse / RDS
         * Hex
         * Looker
 
