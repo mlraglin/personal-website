@@ -12,7 +12,7 @@ role: Data Analyst
 organizations:
 - name: Chartmetric
   url: https://chartmetric.com/
-- name: Ohio State University
+- name: The Ohio State University
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ social:
   icon_pack: fab
   link: https://soundcloud.com/s3lektra
 - icon: record-vinyl
-  icon_pack: fab
+  icon_pack: fas
   link: https://ra.co/dj/selektra
 
 # Link to a PDF of your resume/CV.
